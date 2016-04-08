@@ -93,7 +93,7 @@ $form->setAction($this->url());
     $('input#name').on('blur', null, function(ev) {
         ev.preventDefault();
 
-        if ($.trim($(this).val()).length > 3) {
+        if ($.trim($(this).val()).length > 2) {
             if (fazendoPesquisa) {
                 return;
             } else {
@@ -157,7 +157,7 @@ $form->setAction($this->url());
         }
     });
 </script>
-
+<!-- O erro de fechar está na div abaixo-->
 <div id="similar" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
