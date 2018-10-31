@@ -1,12 +1,30 @@
 # ONGOnline
 
-Sistema de Gest„o para Ongs Humanit·rias.
+Sistema de Gest√£o para ONGs Humanit√°rias.
 
 Projeto atualmente sendo desenvolvido por grupos de pesquisa da 
 UEPG - Universidade Estadual de Ponta Grossa, no projeto Transformar.
 
-## OrientaÁıes
+## Orienta√ß√µes
 
-Trabalhar o desenvolvimento em branchs especÌficos, branch master deve ser utilizado apenas para commits de versıes est·veis.
+Trabalhar o desenvolvimento em branchs espec√≠ficos, branch master deve ser utilizado apenas para commits de vers√µes est√°veis.
 
-O *branch master* deve sempre estar sincronizado com a vers„o executando no servidor de produÁ„o.
+O *branch master* deve sempre estar sincronizado com a vers√£o executando no servidor de produ√ß√£o.
+
+
+Em Ingl√™s
+In English
+
+
+# ONGOnline
+
+Management System for Humanitarian NGOs.
+
+Project now developed by research groups from the
+UEPG - State University of Ponta Grossa, in the project Transformar.
+
+## Guidelines
+
+By working on the development of specific branches, the branch master should be used only for stable mobility commitments.
+
+The *branch master* must be synchronized with an advanced version on the production server.
